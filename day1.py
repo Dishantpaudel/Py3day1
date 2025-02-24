@@ -18,4 +18,3 @@ while True:
     if y > max_y or y <=0:
         dy = -dy    
     draw_circle(x,y)     
-    
